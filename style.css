@@ -1,0 +1,2 @@
+.name{ transition: all ease-in-out .5s}
+.name:hover{ text-decoration: underline; scale: 1.02;}
